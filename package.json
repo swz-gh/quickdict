@@ -1,0 +1,18 @@
+{
+  "name": "quickdict",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/swz-gh/quickdict",
+  "author": "swz",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node esbuild.js dev",
+    "build": "node esbuild.js prod"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.15",
+    "esbuild-svelte": "^0.5.3",
+    "live-server": "^1.2.1",
+    "svelte": "^3.38.3"
+  }
+}

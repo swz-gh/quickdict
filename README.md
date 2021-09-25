@@ -1,0 +1,3 @@
+# quickdict
+
+A dictionary website
