@@ -92,7 +92,7 @@
     margin-bottom: 0.8rem;
   }
   .definitions {
-    overflow-y: scroll;
+    overflow-y: auto;
     margin: 0 1rem;
   }
 </style>
